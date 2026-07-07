@@ -1,7 +1,7 @@
 <!--
- Html--> sketel
-CSS --> Body or style
-JS --> Brain or logic
+ Html-> sketel
+CSS -> Body or style
+JS -> Brain or logic
 
 
 1. we link css file in html before the start of body ( <link rel="stylesheet" href="style.css"> )
