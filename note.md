@@ -1,4 +1,4 @@
-<!--
+<!-- 
  Html-> sketel
 CSS -> Body or style
 JS -> Brain or logic
@@ -20,6 +20,25 @@ Arabic Numerals: Use type="1" (This is the default if the type attribute is not 
 Lowercase Alphabetical Letters: Use type="a"
 Uppercase Alphabetical Letters: Use type="A"
 
+Forms and Input Tags - Summary
+HTML Form Elements Covered:
 
+Text Inputs - Basic text fields with placeholders and required validation
+Radio Buttons - Single-selection options (e.g., gender selection)
+Email Input - Built-in email validation
+Number Input - For numeric values like phone numbers
+Select Dropdown - Multi-option selection (e.g., degree levels: Intermediate, Bachelors, Masters, PhD)
+Date Input - Date picker for date of birth
+File Upload - Upload functionality for CV files
+Checkbox - Boolean selection (e.g., terms & conditions agreement)
+Textarea - Multi-line text input for comments
+Submit Button - Form submission action
+Key Attributes Used:
 
--->
+required - Makes fields mandatory
+pattern - Validates input format (regex)
+placeholder - Shows hint text
+name & id - Form field identification
+type - Specifies input type
+for - Links labels to inputs
+ -->
