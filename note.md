@@ -96,4 +96,12 @@ loop: Repeats the video once it ends.
 muted: Mutes the video by default.
 poster: Specifies an image to be displayed before the video starts playing.
 width and height: Specifies the dimensions of the video.
+
+What is the <code> Tag?
+The <code> tag is a semantic HTML tag that's used for displaying code snippets. It can be used both inline and within a block-level element like <pre>. 
+<code>Your code here</code>
+
+
+What Are <blockquote> and <q> Tags?
+The <blockquote> and <q> tags serve to define quotations in HTML. While <blockquote> is used for longer, block-level quotes, <q> is used for shorter, inline quotes.
  -->
