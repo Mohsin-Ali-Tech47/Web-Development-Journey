@@ -3,7 +3,7 @@
 CSS -> Body or style
 JS -> Brain or logic
 
-
+                HTML TUTORIAL: https://www.codewithharry.com/tutorial/overview/html-home
 1. we link css file in html before the start of body ( <link rel="stylesheet" href="style.css"> )
 2. we link Js file in html before the end of body ( <script src="script.js"></script>)
 3. Tags : paragraph tag without attributes: <p>Content</p> with attributes:<p style="position: relative; background-color: rgb(245, 180, 180); padding: 10px;">Content</p>, link tag: <a href="link" target="_blank">Text</a>,
@@ -41,4 +41,59 @@ placeholder - Shows hint text
 name & id - Form field identification
 type - Specifies input type
 for - Links labels to inputs
+
+Block element: Ye elements screen ki poori width (full width) lete hain aur hamesha ek nayi line se shuru hote hain.
+Common Block-level Elements:
+<h1>,<h2>,<h3>,<h4>,<h5>,<h6> - Headings
+<p> - Paragraphs
+<hr> - Horizontal rule
+<address> - Address information
+<article> - Article content
+<aside> - Sidebar content
+<blockquote> - Block quotations
+<canvas> - Drawing area
+<dd> - Description in a description list
+<div> - Generic container
+<dl> - Description list
+<dt> - Term in a description list
+<fieldset> - Group of related form elements
+<figcaption> - Caption for a figure
+<figure> - Image or media with a caption
+<footer> - Footer of a section or page
+<form> - HTML form
+<header> - Header of a section or page
+<li> - List item
+<main> - Main content of a document
+<nav> - Navigation links
+<noscript> - Alternate content when JavaScript is not enabled
+<ol> - Ordered list
+<ul> - Unordered list
+<pre> - Preformatted text
+<section> - Standalone section in a document
+<table> - Table
+<video> - Video content
+
+
+Inline element: Ye elements sirf utni hi width lete hain jitni inke content ko zaroorat hoti hai. Ye nayi line se shuru nahi hote, balki pichle element ke saath baith jaate hain.
+Common Inline Elements
+<span>: A generic inline container for text
+<a>: Defines a hyperlink
+<strong>: Defines important text
+<em>: Defines emphasized text
+<img>: Embeds an image
+<input>: Defines an input control
+
+ID (id): Functions like a unique identifier or an Aadhaar card. Each ID must be unique to a single element on a page and cannot be reused for other elements. In CSS, IDs are targeted using the hash symbol (#).
+
+Class (class): Used to apply the same properties or styling to multiple elements. An element can have multiple classes, and the same class can be shared across different elements (e.g., ). In CSS, classes are targeted using a dot (.) .
+
+
+Attributes for <video> Tag
+src: Specifies the path to the video file.
+controls: Adds video controls, like play, pause, and volume.
+autoplay: Automatically starts playing the video when the page loads.
+loop: Repeats the video once it ends.
+muted: Mutes the video by default.
+poster: Specifies an image to be displayed before the video starts playing.
+width and height: Specifies the dimensions of the video.
  -->

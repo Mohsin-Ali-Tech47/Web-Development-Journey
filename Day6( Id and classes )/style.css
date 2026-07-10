@@ -1,0 +1,17 @@
+.common-class{
+    background-color: #ffaaaa;
+}
+#span-element{
+    background-color: #aaffaa;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px #888888;
+    text-indent: 20px;
+    text-overflow: ellipsis;
+    text-justify: inter-word;
+    text-orientation: upright;
+    text-rendering: optimizeLegibility;
+    text-underline-position: under;
+    text-style: italic;
+}

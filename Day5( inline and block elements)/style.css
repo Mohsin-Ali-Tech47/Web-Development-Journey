@@ -1,0 +1,16 @@
+p{
+    background-color: lightblue;
+}
+a{
+    background-color: rgb(228, 155, 155);
+}
+div{
+    background-color: rgb(255, 253, 137);
+}
+span{
+    background-color: lightgreen;
+}
+form{
+    background-color: rgb(235, 105, 105);
+    align-items: center;
+}
