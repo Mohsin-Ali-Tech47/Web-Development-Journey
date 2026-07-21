@@ -1,0 +1,23 @@
+h3{
+    color: #0486f1;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #ff9696;
+    animation: h3Animation 2s infinite alternate;
+    text-align: center;
+}
+
+@keyframes h3Animation {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(1.1);
+    }
+}
+
+span{
+    color: #72285f;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: hwb(113 66% 0%);
+    animation: spanAnimation 2s infinite alternate;
+}
